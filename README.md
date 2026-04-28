@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Mr-bacem
-- 👀 I’m interested in Web Developpement 
-- 🌱 I’m currently learning Full-Stuck 
-- 💞️ I’m looking to collaborate on professional career
-.
+# Hi, I'm Bacem 👋
 
-<!---
-Mr-bacem/Mr-bacem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full-Stack Developer (MERN Stack)
+📍 Based in Kaiserslautern, Germany
+🎯 Looking for Junior Developer opportunities
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VS Code
+
+## 🔥 Projects
+- 🛒 E-Commerce Web App — React + Node.js
+- 🤖 BacemAI — AI-powered chat app (Google AI)
+- 🔐 Authentication System — JWT + Express
+
+## 📫 Contact
+- 📧 bacem.ghdiri@gmail.com
+- 📍 Kaiserslautern, Deutschland
